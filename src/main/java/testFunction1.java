@@ -1,3 +1,6 @@
 public class testFunction1 {
-    int a;
+    private  int a;
+    public void function1(){
+        a=1;
+    }
 }
