@@ -3,4 +3,5 @@ public class testFunction1 {
     public void function1(){
         a=1;
     }
+    public  void functionDev1 (){}
 }
