@@ -4,4 +4,5 @@ public class testFunction1 {
         a=1;
     }
     public  void funtionMaster1(){}
+    public  void functionDev1 (){}
 }
